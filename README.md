@@ -20,6 +20,8 @@
 
 <a href="https://www.linkedin.com/in/mohamed-al-sharqawy-934b6aab/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsharqawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Spike_Of_Arabia" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsharqawy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://dev.to/alsharqawy25" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsharqawy-0077B5?style=for-the-badge&logo=Dev.to&logoColor=white"/></a>
+<a href="https://medium.com/@muhamed_elsharqawy" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elsharqawy-0077B5?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
